@@ -8,6 +8,8 @@ I'm a developer focused on building interactive web experiences and managing hig
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+Example: $\color{#8B5CF6}{\text{Hello, I'm Shiva}}$
+
 ### 🚀 Projects I'm Working On
 * **Network Administration:** Optimizing server performance and plugin configurations.
 * **Web UI/UX:** Creating modern, glassmorphic layouts and responsive components.
