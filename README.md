@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm Gen_X_Legend
 
 I'm a developer focused on building interactive web experiences and managing high-performance game networks.
 
@@ -13,4 +13,4 @@ I'm a developer focused on building interactive web experiences and managing hig
 * **Tooling:** Developing custom launchers and management utilities.
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=genxlegend&show_icons=true&theme=radical)
