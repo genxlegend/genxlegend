@@ -1,6 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=ffffff)
 # Hi there 👋 I'm Gen_X_Legend
 
+![Minecraft](https://img.shields.io/badge/Minecraft-%2311AD11.svg?style=for-the-badge&logo=minecraft&logoColor=white)
+
 I'm a developer focused on building interactive web experiences and managing high-performance game networks.
 
 ### 🛠 Tech Stack
